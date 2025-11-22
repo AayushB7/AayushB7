@@ -1,4 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Aayush Bahurupi</h1>
+<div align='center'>
+  <h1>Hi there 
+    <img width='35px' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc4MG9vb290cTI1bHA5eWIxdDcxdjF4dW14b3dla2o5ZTl6NnJ3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif'/> 
+    I am Aayush Bahurupi
+  </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushb7&label=Profile%20views&color=0e75b6&style=flat" alt="aayushb7" /> </p>
 
 <h3 align="left">Connect with me:</h3>
